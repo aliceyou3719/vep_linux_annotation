@@ -42,4 +42,3 @@ git clone https://github.com/aliceyou3719/vep_linux_annotation.git
 ## Output
 
 The pipeline generates VEP-annotated VCF files with complete variant annotations.
- bb0bd14a (Initial release: VEP Linux Annotation v1.0)
