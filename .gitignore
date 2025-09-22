@@ -1,0 +1,7 @@
+*.tar.gz
+*.gz
+*.tar
+
+homo_sapiens/
+homo_sapiens_refseq/
+ensembl-vep/
