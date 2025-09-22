@@ -6,3 +6,4 @@ homo_sapiens/
 homo_sapiens_refseq/
 ensembl-vep/
 ensembl-vep/
+vep_example.sh
